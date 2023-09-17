@@ -48,3 +48,6 @@ Asegúrate de que el controlador `MarvelController` esté correctamente configur
 
 Para obtener más detalles sobre cómo funcionan estos endpoints, consulta el código fuente en el controlador `MarvelController` en el proyecto.
 
+---
+
+Desarrollado por Andrés Peña Ortega.
